@@ -30,11 +30,12 @@
 ## 📊 Статистика GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArSiFoX&show_icons=true&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArSiFoX&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=ArSiFoX&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArSiFoX&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArSiFoX&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
