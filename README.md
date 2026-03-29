@@ -31,6 +31,10 @@
 
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArSiFoX&theme=tokyonight" /> </p>
 
+## 🐍 Активность
+
+![snake gif](https://github.com/ArSiFoX/ArSiFoX/blob/output/github-contribution-grid-snake.svg)
+
 ---
 
 ## ⚡ Немного обо мне
