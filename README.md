@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Привет, я Arslan
 
-<!--
-**ArSiFoX/ArSiFoX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Разработчик  
+🚀 Люблю создавать удобные и красивые решения
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Стек технологий
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,cpp,python,kotlin,lua,html,linux" />
+</p>
+
+---
+
+## 🛠 Программы и инструменты
+
+<p>
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,ps,pr" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CapCut-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=black"/>
+</p>
+
+---
+
+## 📊 Статистика GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ТВОЙ_НИК&theme=tokyonight" />
+</p>
+
+---
+
+## ⚡ Немного обо мне
+
+- 🔥 Изучаю новые технологии каждый день  
+- 🎨 Работаю с дизайном и видео  
+- 💡 Люблю UNIX и автоматизацию  
